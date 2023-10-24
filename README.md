@@ -15,6 +15,10 @@ Gramps.js is the responsive Javascript frontend of <a href="https://www.grampswe
 ## Demo
 
 A demo deployment based on the Gramps example family tree is available [here](https://gcp-api-puqt5dnf3a-uc.a.run.app/).
+You can login with following userdata to test:
+
+Username: XXXXXXX
+Password: XXXXXXX
 
 ## User documentation
 
